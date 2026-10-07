@@ -1,0 +1,8 @@
+[functions.notion-oauth]
+verify_jwt = false
+
+[functions.notion-pages]
+verify_jwt = false
+
+[functions.notion-page-content]
+verify_jwt = false
